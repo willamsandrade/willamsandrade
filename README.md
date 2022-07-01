@@ -44,8 +44,23 @@
 
 <br clear="both">
 
+<div align="center">
+  <img height="150" src="https://avatars.githubusercontent.com/u/85310845?v=4"  />
+</div>
+
+###
+
+<br clear="both">
+
 <img href="https://raw.githubusercontent.com/willamsandrade/willamsandrade/blob/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<div align="center">
+  Acesse: <a href="https://willams.ideiasst.com.br/">https://willams.ideiasst.com.br/</a>
+</div>
+
+###
+
 
 
