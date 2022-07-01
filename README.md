@@ -45,7 +45,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="150" src="https://avatars.githubusercontent.com/u/85310845?v=4"  />
+  <img height="150" src="https://willams.ideiasst.com.br/assets/img/perfil-willams.png"  />
 </div>
 
 ###
